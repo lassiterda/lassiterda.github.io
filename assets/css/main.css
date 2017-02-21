@@ -1,5 +1,4 @@
 body {
-  margin: 0px;
   font-family: 'Roboto', Sans-Serif;
   text-align: center;
 }
@@ -116,11 +115,11 @@ hr {
 
 h2 {
   font-size: 40px;
-  margin: 0;
+  margin: 10px 0;
 }
 
 p {
-padding: 5px 0;
+padding: 10px 0;
 }
 
 .round {
